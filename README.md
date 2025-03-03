@@ -23,8 +23,8 @@ A simple volunteer registration and check-in system built with React, Node.js, E
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd volunteer-checkin
+git clone https://github.com/fred5354/
+cd checkin
 ```
 
 2. Create environment files:
