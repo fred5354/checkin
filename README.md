@@ -11,6 +11,29 @@ A simple volunteer registration and check-in system built with React, Node.js, E
 └── docker-compose.yml # Docker configuration
 ```
 
+## Getting Started
+
+Quick start guide to run this project:
+
+```bash
+# Clone the repository
+git clone https://github.com/YOUR_USERNAME/volunteer-checkin.git
+
+# Install dependencies
+cd volunteer-checkin
+cd backend && npm install
+cd ../frontend && npm install
+
+# Start development servers
+# Terminal 1: Start backend
+cd backend && npm run dev
+
+# Terminal 2: Start frontend
+cd frontend && npm start
+```
+
+Visit http://localhost:3001 to see the application in action!
+
 ## Prerequisites
 
 - Node.js 16+
